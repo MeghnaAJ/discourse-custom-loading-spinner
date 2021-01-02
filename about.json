@@ -1,6 +1,6 @@
 {
   "name": "discourse-custom-loading-spinner",
-  "about_url": "",
+  "about_url": "https://meta.discourse.org/t/custom-loading-spinner-component/174801/",
   "license_url": "https://github.com/MeghnaAJ/discourse-custom-loading-spinner/blob/master/LICENSE",
   "author": "Meghna",
   "component": true

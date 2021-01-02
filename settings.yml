@@ -5,7 +5,7 @@ custom_icon_name:
 
 custom_icon_color:
   client: true
-  default: "#000000"
+  default: ""
   description: "Icon color hex code"
 
 custom_icon_size:
